@@ -8,3 +8,5 @@ Hoy hablaremos de su historia.
 En camara parece alto pero la verdad no estan alto.
 
 Hoy esta aprendiendo git en platzi.
+
+Hablaremos de su vida
